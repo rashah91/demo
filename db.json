@@ -1,6 +1,6 @@
 {
   "devices": [
-    { "id": 1, "mac_address": "aa:bb:cc:dd:ee:ff" }
+    { "id": 1, "mac_address": "aa:bb:cc:dd:ee:ff", "serialNumber": "D7578548", "make": "Cisco", "model": "WGRFD1" }
   ],
   "login": {
     "access_token": "eygiut675eufkjgdiufg87et7idhkjfdiugfiud", "expires_in": 3599, "type": "Bearer"
